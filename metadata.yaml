@@ -1,0 +1,25 @@
+_repo: Domestic-Cookery-Useful-Receipts-and-Hints-to-Young-Housekeepers_9101
+creator:
+  author:
+    agent_name: Lea, Elizabeth E. (Elizabeth Ellicott)
+    alias: Lea, Elizabeth Ellicott
+    birthdate: 1793
+    deathdate: 1858
+    gutenberg_agent_id: '2976'
+    url: http://www.gutenberg.org/2009/agents/2976
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9101'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Formulas, recipes, etc.'
+- !lcc 'TX'
+- !lcsh 'Cooking, American'
+title: Domestic Cookery, Useful Receipts, and Hints to Young Housekeepers
+url: http://www.gutenberg.org/ebooks/9101
