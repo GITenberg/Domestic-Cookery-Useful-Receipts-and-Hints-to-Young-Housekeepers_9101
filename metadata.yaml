@@ -1,4 +1,8 @@
 _repo: Domestic-Cookery-Useful-Receipts-and-Hints-to-Young-Housekeepers_9101
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lea, Elizabeth E. (Elizabeth Ellicott)
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '2976'
     url: http://www.gutenberg.org/2009/agents/2976
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9101#Domestic-Cookery-Useful-Receipts-and-Hints-to-Young-Housekeepers
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2005-10-01'
 gutenberg_type: Text
